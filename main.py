@@ -13,7 +13,7 @@ try:
     st.image("secret_santa.jpg")
 except:
     pass
-st.write(f"# Père Noël secret des Monney {datetime.datetime.now().year}🎅")
+st.write(f"# Père Noël secret des Python {datetime.datetime.now().year}🎅")
 
 with st.form("my_form"):
     secret_code = st.text_input(
