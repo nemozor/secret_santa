@@ -1,8 +1,8 @@
-people = {"Marly Cerisiers" : ["Lorenzo", "Nicole"],
-          "Neyruz": ["Baptiste", "Chloé"],
-          "Prez": ["Alexandra", "Miguel"],
+people = {"Neyruz": ["Baptiste", "Chloé"],
           "jay": ["Jérôme", "Aurélie"],
+          "Marly Cerisiers" : ["Lorenzo", "Nicole"],
           "Roland": ["Roland", "Gerlinde"],
+          "Prez": ["Alexandra", "Miguel"],
           "PAM": ["PAM", "Maria"],
           "Antoinette": ["Antoinette", "Dominique"]
           }
